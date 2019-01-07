@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Text in echo
+#: 404.php:16
+msgid "Go to the"
+msgstr ""
+
+#. Text in echo
+#: 404.php:11
+msgid "Page Not Found"
+msgstr "dada"
+
+#. Text in echo
+#: 404.php:15
+msgid "Sorry the page you requested may have been moved or deleted."
+msgstr ""
+
+#. Text in echo
+#: 404.php:16
+msgid "homepage"
+msgstr ""
+
+#. Text in function
+#: archive.php:87 index.php:74
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#. Text in echo
+#: archive.php:17 archive.php:19 archive.php:21
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: archive.php:23
+msgid "Author <span>Archive</span>"
+msgstr ""
+
+#. Text in echo
+#: archive.php:25
+msgid "Blog <span>Archives</span>"
+msgstr ""
+
+#. Text in function
+#: archive.php:86 index.php:73
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#. Text in echo
+#: archive.php:15
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in echo
+#: archive.php:77 index.php:64
+msgid "read more"
+msgstr ""
+
+#. Text in function
+#: comments.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in echo
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: comments.php:57 contact.php:42
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:41
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Post Comment"
+msgstr ""
+
+#. Text in echo
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: contact.php:46
+msgid "E-Mail"
+msgstr ""
+
+#. Text in echo
+#: contact.php:62
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: contact.php:51
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: contact.php:66
+msgid "Send"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "About Section Widgets"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home Center Widgets"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home widget bottom center"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home widget bottom left"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home widget bottom right"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar Blog"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar Contact"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar Pages"
+msgstr ""
+
+#. Text in echo
+#: header.php:78
+msgid "close menu"
+msgstr ""
+
+#. Text in echo
+#: header.php:77
+msgid "menu"
+msgstr ""
+
+#. Text in echo
+#: index.php:12
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in echo
+#: search.php:12
+msgid "articles"
+msgstr ""
+
+#. Text in echo
+#: category-posts.php:128
+msgid "Category:"
+msgstr ""
+
+#. Text in function
+#: category-posts.php:1
+msgid ""
+"Display posts from a specific selected category. Works only on home widget "
+"areas"
+msgstr ""
+
+#. Text in echo
+#: category-posts.php:100
+msgid "Nr of posts:"
+msgstr ""
+
+#. Text in echo
+#: category-posts.php:105
+msgid "Order by:"
+msgstr ""
+
+#. Text in echo
+#: category-posts.php:121
+msgid "Thumbnail:"
+msgstr ""
+
+#. Text in function
+#: widget-about.php:1
+msgid "Custom about widget"
+msgstr ""
+
+#. Text in function
+#: widget-about.php:1
+msgid "Custom about widget for home page"
+msgstr ""
+
+#. Text in echo
+#: widget-about.php:69 widget-text.php:68
+msgid "Thumb URL:"
+msgstr ""
+
+#. Text in function
+#: widget-countdown.php:1
+msgid "Custom countdown widget"
+msgstr ""
+
+#. Text in function
+#: widget-countdown.php:1
+msgid "Custom countdown widget to use on home page or sidebars"
+msgstr ""
+
+#. Text in echo
+#: widget-flickr.php:48
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in echo
+#: widget-flickr.php:52
+msgid "Thumbs number:"
+msgstr ""
+
+#. Text in function
+#: widget-flickr.php:1
+msgid "Widget - Flickr"
+msgstr ""
+
+#. Text in function
+#: widget-map.php:1
+msgid "Custom google map widget"
+msgstr ""
+
+#. Text in function
+#: widget-map.php:1
+msgid "Custom google map widget for sidebars"
+msgstr ""
+
+#. Text in echo
+#: widget-map.php:52
+msgid "Map Src:"
+msgstr ""
+
+#. Text in function
+#: widget-text.php:1
+msgid "Custom text widget"
+msgstr ""
+
+#. Text in function
+#: widget-text.php:1
+msgid "Custom text widget for home page and sidebars"
+msgstr ""
+
+#. Text in echo
+#: widget-text.php:71 widget-about.php:72
+msgid "More link:"
+msgstr ""
+
+#. Text in echo
+#: widget-text.php:65 widget-countdown.php:58 widget-about.php:66
+msgid "Text content:"
+msgstr ""
+
+#. Text in function
+#: widget-twitter.php:1
+msgid "Custom Twitter widget"
+msgstr ""
+
+#. Text in function
+#: widget-twitter.php:1
+msgid "Custom Twitter widget for home page and sidebars"
+msgstr ""
+
+#. Text in echo
+#: widget-about.php:63 widget-countdown.php:55 widget-flickr.php:44
+#: widget-map.php:49 widget-text.php:62 category-posts.php:95
+#: widget-twitter.php:50
+msgid "Title:"
+msgstr ""
